@@ -14,6 +14,12 @@ Arduino
 Proyecto del eje integrador 1.
 Redacción de trabajos escolares.
 ## Semana 2
+Electricidad 1  
+Qué es la electricidad  
+Introducción a la programación creativa  
+## Semana 3
+
 ## Recursos
 [Processing](https://processing.org/)  
 [Arduino](https://www.arduino.cc/)  
+[Libreoffice](https://es.libreoffice.org/)  
