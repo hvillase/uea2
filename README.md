@@ -29,5 +29,7 @@ Introducción a Arduino
 [Processing](https://processing.org/)  
 [Arduino](https://www.arduino.cc/)  
 [Libreoffice](https://es.libreoffice.org/)  
-###Edición de imagen
+### Edición de imagen
 [Gimp](https://www.gimp.org/)
+### Medios
+[Medios con licencia CC](https://search.creativecommons.org/)
