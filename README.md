@@ -18,8 +18,16 @@ Electricidad 1
 Qué es la electricidad  
 Introducción a la programación creativa  
 ## Semana 3
-
+Eectricidad 2  
+Ley de Ohm  
+Programación creativa 2: IF  
+Redacción de trabajos escolares  
+## Semana 4
+Preparación del coloquio 1  
+Introducción a Arduino  
 ## Recursos
 [Processing](https://processing.org/)  
 [Arduino](https://www.arduino.cc/)  
 [Libreoffice](https://es.libreoffice.org/)  
+###Edición de imagen
+[Gimp](https://www.gimp.org/)
