@@ -25,11 +25,18 @@ Redacción de trabajos escolares
 ## Semana 4
 Preparación del coloquio 1  
 Introducción a Arduino  
+## Semana 5
+Processing + Arduino  
+## Semana 6
+El proyecto en Processing  
 ## Recursos
 [Processing](https://processing.org/)  
 [Arduino](https://www.arduino.cc/)  
 [Libreoffice](https://es.libreoffice.org/)  
 ### Edición de imagen
 [Gimp](https://www.gimp.org/)
+[Krita](https://krita.org/en/)
+[Audacity](https://www.audacityteam.org/)
+[Inkscape](https://inkscape.org/es/)
 ### Medios
 [Medios con licencia CC](https://search.creativecommons.org/)
