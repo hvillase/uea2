@@ -38,5 +38,8 @@ El proyecto en Processing
 [Krita](https://krita.org/en/)
 [Audacity](https://www.audacityteam.org/)
 [Inkscape](https://inkscape.org/es/)
+[Blender](https://www.blender.org/)
+[digiKam](https://www.digikam.org/)
 ### Medios
 [Medios con licencia CC](https://search.creativecommons.org/)
+[Freesound](https://freesound.org/)
