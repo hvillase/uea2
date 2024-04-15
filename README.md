@@ -29,17 +29,21 @@ Introducción a Arduino
 Processing + Arduino  
 ## Semana 6
 El proyecto en Processing  
-## Recursos
+## Programación
 [Processing](https://processing.org/)  
 [Arduino](https://www.arduino.cc/)  
+[p5]()  
+[Hydra]()  
+[SuperCollider]()  
+## Escriura
 [Libreoffice](https://es.libreoffice.org/)  
-### Edición de imagen
-[Gimp](https://www.gimp.org/)
-[Krita](https://krita.org/en/)
-[Audacity](https://www.audacityteam.org/)
-[Inkscape](https://inkscape.org/es/)
-[Blender](https://www.blender.org/)
-[digiKam](https://www.digikam.org/)
+### Programas de Edición
+[Gimp](https://www.gimp.org/)  
+[Krita](https://krita.org/en/)  
+[Audacity](https://www.audacityteam.org/)  
+[Inkscape](https://inkscape.org/es/)  
+[Blender](https://www.blender.org/)  
+[digiKam](https://www.digikam.org/) 
 ### Medios
 [Medios con licencia CC](https://search.creativecommons.org/)
 [Freesound](https://freesound.org/)
