@@ -29,13 +29,15 @@ Introducción a Arduino
 Processing + Arduino  
 ## Semana 6
 El proyecto en Processing  
+## Semana 7
+Documentación del proyecto e interactividad Processing on Arduino.  
 ## Programación
 [Processing](https://processing.org/)  
 [Arduino](https://www.arduino.cc/)  
 [p5]()  
 [Hydra]()  
 [SuperCollider]()  
-## Escriura
+## Escritura
 [Libreoffice](https://es.libreoffice.org/)  
 ### Programas de Edición
 [Gimp](https://www.gimp.org/)  
