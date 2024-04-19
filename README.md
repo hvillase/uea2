@@ -47,5 +47,5 @@ Documentación del proyecto e interactividad Processing on Arduino.
 [Blender](https://www.blender.org/)  
 [digiKam](https://www.digikam.org/) 
 ### Medios
-[Medios con licencia CC](https://search.creativecommons.org/)
-[Freesound](https://freesound.org/)
+[Medios con licencia CC](https://search.creativecommons.org/)  
+[Freesound](https://freesound.org/)  
