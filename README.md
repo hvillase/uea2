@@ -31,6 +31,16 @@ Processing + Arduino
 El proyecto en Processing  
 ## Semana 7
 Documentación del proyecto e interactividad Processing on Arduino.  
+## Semana 8
+Desarrollo del proyecto: materiales artísticos y tecnológicos  
+## Semana 9
+Coloquio 2  
+## Semana 10
+Conclusión 1  
+## Semana 11
+Conclusión 2  
+# Semana 11 bis
+Proyecto terminado  
 ## Programación
 [Processing](https://processing.org/)  
 [Arduino](https://www.arduino.cc/)  
