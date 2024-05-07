@@ -9,7 +9,7 @@ void setup() {
   fullScreen(); // para ver vantalla completa
   noCursor(); // esconde el cursor en la imagen
 
-  img = loadImage("assets/gatico.jpg"); // carga imagen de la ruta
+  img = loadImage("assets/gatico.jpg"); // carga imagen desde la carpeta assets
 }
 
 void draw() {
