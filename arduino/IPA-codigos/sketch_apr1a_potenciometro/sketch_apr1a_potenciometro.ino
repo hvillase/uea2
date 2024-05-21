@@ -3,7 +3,7 @@ int potenciometro = 0;
 
 void setup() {
   // coloca tu código setup aquí, el cual corre una vez:
-  Serial.begin(19200);
+  Serial.begin(9600);
 }
 
 void loop() {
